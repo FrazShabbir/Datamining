@@ -4,6 +4,7 @@ import math
 from sklearn.datasets import load_iris 
 from sklearn import datasets, linear_model, metrics  
 print("FRAZ SHABBIR  17114156-067")
+print("Datamining Assingment")
 
 # load iris data set 
 dataset = load_iris()    
