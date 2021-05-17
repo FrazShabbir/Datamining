@@ -7,6 +7,7 @@ print("FRAZ SHABBIR  17114156-067 IT 17A")
 
 
 # load iris data set 
+# load iris data set 
 dataset = load_iris()    
 a = dataset.data 
 b = np.zeros(150) 
