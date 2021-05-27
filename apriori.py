@@ -4,7 +4,7 @@ import pandas as pd
 from mlxtend.frequent_patterns import apriori, association_rules 
 
 print("FRAZ SHABBIR     17114156-067")
-print("Datamining Assingment")
+print("Datamining Assingment   ")
 
 # Loading the Data 
 data = pd.read_excel('Online_Retail.xlsx') 
